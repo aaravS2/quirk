@@ -56,6 +56,7 @@ This helps us create a long-term, sustainable product without ads or one-off in-
 If Quirk helps you feel better, then it's likely worth the price. If not, there's cancellation instructions in the settings of the app. 
 
 We hope you'll love Quirk as much as we do. ❤️
+We are here to help you :)    .
 `,
 ];
 

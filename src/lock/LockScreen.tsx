@@ -28,7 +28,7 @@ interface ScreenProps {
 const KeypadButton = ({ title, onPress, style = {} }) => (
   <GhostButton
     title={title}
-    borderColor={theme.gray}
+    borderColor={theme.offwhite}
     textColor={theme.darkText}
     width={BUTTON_SIZE}
     height={BUTTON_SIZE}

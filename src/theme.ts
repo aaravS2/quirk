@@ -1,6 +1,6 @@
 export default {
   lightOffwhite: "#fbfcfe",
-  offwhite: "#f2f5fa",
+  offwhite: "rgb(80, 244, 244)",
   lightGray: "#EAEDF8",
   gray: "#dadfeb",
   veryLightText: "#8894af",
@@ -10,7 +10,7 @@ export default {
   darkPink: "#F78FB3",
   lightPink: "#FFF3F8",
   red: "#c44569",
-  lightBlue: "#EDF0FC",
+  lightBlue: "rgb(22, 164, 252)",
   veryLightBlue: "#F2F4FD",
   blue: "#778beb",
   darkBlue: "#546de5",
